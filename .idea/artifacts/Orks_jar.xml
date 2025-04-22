@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Orks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Orks_jar</output-path>
+    <root id="archive" name="Orks.jar">
+      <element id="module-output" name="Orks" />
+    </root>
+  </artifact>
+</component>
